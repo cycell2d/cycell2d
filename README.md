@@ -9,3 +9,5 @@ With its own concise scripting language, you'll be able to write programs to sim
 Learn: http://www.cycell2d.com/learn.html
 
 Tutorial: http://www.cycell2d.com/tutorial.html
+
+Author / Creator / Copyright: Cyrus Rea http://www.cycell2d.com
